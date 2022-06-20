@@ -1,7 +1,7 @@
 public class seminar02 {
     public static void main(String[] args) {
 //        int start_peg = 1, destination_peg = 2, buffer_peg = 3, plate_quantity = 3;
-        hanoiTowers(2 , 1, 2, 3);
+        hanoiTowers(3 , 1, 2, 3);
 
 
     }
